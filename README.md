@@ -1,0 +1,4 @@
+HashTest
+========
+
+TestEveryHashFunction
